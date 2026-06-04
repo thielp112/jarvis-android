@@ -1,0 +1,47 @@
+# Gradle
+.gradle
+/build
+/local.properties
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.aar
+*.jks
+*.keystore
+
+# Android Studio
+.idea/
+.DS_Store
+*.iml
+*.iws
+*.ipr
+*.suo
+*.user
+*.DotSettings
+*.DotSettings.user
+*.vspscc
+*.vssscc
+.vscode/
+*.swp
+*.swo
+
+# Build
+/captures
+.externalNativeBuild
+.cxx/
+
+# Environment
+.env
+.env.local
+secret.properties
+
+# IDE
+.idea/
+out/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
